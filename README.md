@@ -17,14 +17,13 @@
 
 ## Technologies Used
 
-
+```text
 -Python 3
 -JSON
 -Object-Oriented Programming (OOP)
 -File Handling
 -Exception Handling
-
-
+```
 
 ##  Project Structure
 
@@ -39,13 +38,13 @@ Personal-Task-Manager/
 ## How to run
 
 ```text
--1.Clone the repository:
+1.Clone the repository:
 git clone https://github.com/Aryan-chaudhari09/Personal_Task_Manager.git
 
--2.Navigate to the project directory:
+2.Navigate to the project directory:
 cd Personal_Task_Manager
 
--3.Run the application:
+3.Run the application:
 python main.py
 ```
 
