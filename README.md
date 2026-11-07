@@ -1,7 +1,7 @@
 ## PERSONAL TASK MANAGER
 
 ```text
--A simple command-line task management application built using Python. It allows users to add, view, mark complete, and delete tasks, with persistent data storage using JSON
+A simple command-line task management application built using Python. It allows users to add, view, mark complete, and delete tasks, with persistent data storage using JSON
 ```
 ## FEATURES:
 
