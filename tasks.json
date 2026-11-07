@@ -1,0 +1,26 @@
+[
+    {
+        "Task": "Python",
+        "Completed": false
+    },
+    {
+        "Task": "DS",
+        "Completed": true
+    },
+    {
+        "Task": "DBMS",
+        "Completed": false
+    },
+    {
+        "Task": "PS",
+        "Completed": false
+    },
+    {
+        "Task": "Do Assignment",
+        "Completed": false
+    },
+    {
+        "Task": "DBMS Submission",
+        "Completed": true
+    }
+]
